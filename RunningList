@@ -1,3 +1,13 @@
-Shotcut
-Jabra Direct
-Postman
+[
+
+{
+    "AppName": "Postman",
+    "AutoUpdate": "true",
+    "UA": "No"
+},
+{
+    "AppName": "Dropbox",
+    "AutoUpdate": "true",
+    "UA": "No"
+}
+]
