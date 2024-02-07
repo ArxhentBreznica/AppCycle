@@ -4,10 +4,18 @@
     "AppName": "Postman",
     "AutoUpdate": "true",
     "UA": "No"
+    "Install-Parameter": "/QN /NORESTART"
+    "Uninstall-Parameter": "/QN"
+    "Deployment-Group-Test": "G_XX_APPS_POSTMAN_TEST"
+    "Deployment-Group": "G_XX_APPS_POSTMAN"
 },
 {
     "AppName": "Dropbox",
     "AutoUpdate": "true",
     "UA": "No"
+    "Install-Parameter": "/QN /NORESTART"
+    "Uninstall-Parameter": "/QN"
+    "Deployment-Group-Test": "G_XX_APPS_DROPBOX_TEST"
+    "Deployment-Group-Prod": "G_XX_APPS_DROPBOX"
 }
 ]
